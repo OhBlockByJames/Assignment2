@@ -1,5 +1,4 @@
-# Assignment2
-卷積神經網路作業
+# CS231n Assignment2
 
 MLPClassifier_CNN.ipynb
 
